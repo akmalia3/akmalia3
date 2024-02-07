@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akmalia3
 - 👀 I’m interested in Artifical Intelligence  Engineering and Data Analyst 
-- 🌱 I’m currently learning Front-End Web Development Learning Path and NLP Preprocssing
+- 🌱 I’m currently learning Data Analyst and Machine Learning
 - 📫 How to reach me on
      <a href="https://www.linkedin.com/in/akmalia-fatimah-77563721b/" target="_blank">LinkedIn</a>
 
